@@ -4,7 +4,7 @@ Hey <br>
 
 One day i will lead
 
-Git Command 
+Git Command <br>
   -> git status - to know status of all file 
   ->
 -> Steps to push change on Git Hub
