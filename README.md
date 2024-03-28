@@ -7,6 +7,8 @@ One day i will lead
 Git Command <br>
   -> git status - to know status of all file 
   ->
+
+  
 -> Steps to push change on Git Hub
 
 1.  git add . -> to add more all file at once 
