@@ -2,11 +2,17 @@ Learning about Git <br>
 Hey <br>
   This is MaRk
 
-I will lead
+One day i will lead
 
-git add . -> to add more all file at once 
+Git Command 
+  -> git status - to know status of all file 
+  ->
+-> Steps to push change on Git Hub
 
-git add 
-git commit -m "message_" -> to commit file 
+1.  git add . -> to add more all file at once 
+                  or
+    git add filename -> to add particular file
 
-git push origin main -> to push all file on git hub
+2.  git commit -m "message_" -> to commit file 
+
+3.  git push origin main -> to push all file on git hub
